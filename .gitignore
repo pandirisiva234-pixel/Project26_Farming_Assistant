@@ -9,3 +9,6 @@ chroma_db/
 **/chroma_db/
 *.db
 .pytest_cache/
+generated_audio/
+**/generated_audio/
+*.mp3
