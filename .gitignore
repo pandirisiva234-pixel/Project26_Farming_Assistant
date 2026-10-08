@@ -12,3 +12,6 @@ chroma_db/
 generated_audio/
 **/generated_audio/
 *.mp3
+# Plant Disease Dataset and Models
+plant_disease/dataset/
+plant_disease/models/
